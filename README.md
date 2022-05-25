@@ -5,6 +5,7 @@
 I created an HTML file to create my portfolio. The portfolio inludes a  < nav >  bar linking to specific sections of the page. I have a header with my name included. A body with sections titled "about me", "my work", and "contact me." A photo was attached so show user's my profile. The contact me section has links to where you can contact me. Then I included a small footer. To be continued and edited in the process.
 #
 ## What does the application do?
+This application presents my very own portfolio, showing users an introduction of me, my work and how to contact me.
 #
 ## Acceptance Criteria
 ```
@@ -24,4 +25,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 #
 ## Resources
+[GitHub Pages](https://pages.github.com/)
 #
